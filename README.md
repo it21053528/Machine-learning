@@ -4,3 +4,6 @@ Machine learning projects
   - Predicting final grade of students
   - Classifying quality of the wine as Bad or Good
   - Predicting Google stock price 
+
+Streamlit WebApps
+  - Uber pickups in NYC
