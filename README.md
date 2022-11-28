@@ -7,3 +7,4 @@ Machine learning projects
 
 Streamlit WebApps
   - Uber pickups in NYC
+  - Tesla closing price visualization 
