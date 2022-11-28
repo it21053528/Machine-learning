@@ -3,3 +3,4 @@ Machine learning projects
   - Clustering customers who are coming to the mall
   - Predicting final grade of students
   - Classifying quality of the wine as Bad or Good
+  - Predicting Google stock price 
