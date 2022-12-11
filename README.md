@@ -1,7 +1,7 @@
 Machine learning projects
   - Predicting Boston's median value of owner-occupied homes in $1000's
   - Clustering customers who are coming to the mall
-  - Predicting final grade of students
+  - Predicting final grade of students by using a Pipeline 
   - Classifying quality of the wine as Bad or Good
   - Predicting daily Google stock price 
   - Sentiment analysis and clustering of tweets (NLP)
