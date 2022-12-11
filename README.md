@@ -4,8 +4,8 @@ Machine learning projects
   - Predicting final grade of students
   - Classifying quality of the wine as Bad or Good
   - Predicting daily Google stock price 
-  - Sentiment analysis and clustering of tweets
-  - Magic Telescope data prediction 
+  - Sentiment analysis and clustering of tweets (NLP)
+  - Magic Telescope data prediction by using Neutral Networks and many other algorithms 
 
 Streamlit WebApps
   - Uber pickups in NYC
