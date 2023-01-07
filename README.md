@@ -1,3 +1,5 @@
+Hi, this is my machine learning project portfolio
+
 Machine learning projects
   - Predicting Boston's median value of owner-occupied homes in $1000's
   - Clustering customers who are coming to the mall
@@ -6,6 +8,7 @@ Machine learning projects
   - Predicting daily Google stock price 
   - Sentiment analysis and clustering of tweets (NLP)
   - Magic Telescope data prediction by using Neutral Networks and many other algorithms 
+  - Image classification using CNN
 
 Streamlit WebApps
   - Uber pickups in NYC
