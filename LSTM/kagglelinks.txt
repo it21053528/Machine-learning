@@ -1,1 +1,2 @@
 https://www.kaggle.com/code/khatana5597/apple-stock-merket-prediction-by-lstm
+https://www.kaggle.com/code/shivamb/beginners-guide-to-text-generation-using-lstms
