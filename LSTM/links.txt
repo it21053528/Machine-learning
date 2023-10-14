@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/khatana5597/apple-stock-merket-prediction-by-lstm
+https://www.kaggle.com/code/shivamb/beginners-guide-to-text-generation-using-lstms
+https://colab.research.google.com/drive/1HxPsJvEAH8L7XTmLnfdJ3UQx7j0o1yX5?usp=sharing#scrollTo=LVV0xsEpHcYS
+https://colab.research.google.com/drive/1Bk4zPQwAfzoSHZokKUefKL1s6lqmam6S?usp=sharing
