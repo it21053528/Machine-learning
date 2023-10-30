@@ -1,4 +1,8 @@
 https://www.kaggle.com/code/khatana5597/apple-stock-merket-prediction-by-lstm
 https://www.kaggle.com/code/shivamb/beginners-guide-to-text-generation-using-lstms
+https://www.kaggle.com/code/meetnagadia/bitcoin-price-prediction-using-lstm#Thats-it-we-are-Done-with-Bitcoin-Price-Prediction-using-LSTM.
+https://www.kaggle.com/code/farzadnekouei/gold-price-prediction-lstm-96-accuracy#Step-11:-Model-Evaluation
+https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm#6.-Predicting-the-closing-price-stock-price-of-APPLE-inc:
 https://colab.research.google.com/drive/1HxPsJvEAH8L7XTmLnfdJ3UQx7j0o1yX5?usp=sharing#scrollTo=LVV0xsEpHcYS
 https://colab.research.google.com/drive/1Bk4zPQwAfzoSHZokKUefKL1s6lqmam6S?usp=sharing
+https://colab.research.google.com/drive/1VQdl8RaXs6sAQ-0NmlHmxcIQ1A0Smhca
